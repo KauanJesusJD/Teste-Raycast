@@ -1,10 +1,10 @@
 # Teste-Raycast
 # Criador
-
+  Este pequeno exercício foi feito por Kauan Jesus e Arthur Victor do 3° Jogos
 # Descrição
-
+Este jogo vai simular um microlabirinto onde o personagem principal (O Blue Gut), precisa destruir as paredes no seu caminho ate chegar no fim do Labirinto demarcado por varios efeitos especiais. Esse jogo tem como exemplo demonstrar o uso simples de RayCast para destruir os objetos, além de demonstrar também o uso basíco de uma prefab. Neste readme serao explicados os passos basícos de como chegamos em nosso resultado final. No fim deste Readme havéra o link para o arquivo do jogo.
 # Como foi feito os codigos
-
+Todos os codígos utilizados foram baseados em exemplos e conceitos aprendidos em aula. Utilizamos muito dos exemplos dado pela nossa professora. Em casos onde tivemos duvidas, utilizamos a internet como apoio para conseguirmos chegar numa conclusao, mas todos os exemplos abaixos citados foi baseado em teorias praticas.
 #  Movimento do personagem
 Primeiro criamos uma variável para decidir a "velocidade" que o personagem andaria. Depois utilizamos o "if" para se uma tecla específica for clicada ele andaria para a frente, trás, direita e esquerda. E a tecla espaço serve para pular (eixo Y).
 
