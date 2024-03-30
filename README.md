@@ -27,7 +27,7 @@ Se o objeto atingido não for o mesmo do objeto com o script atribuído, Destroy
 # Prefabs Usados
 - Este é o 'Blue Gut' é o personagem que você controlara durante o percurso do labirinto. 
 ![image](https://github.com/lucasnoelgb/promanopicas/assets/129121307/d1ccfdd6-a071-43d5-8802-3e1f1b808e73)
-- Ao terminar o Labirinto você será recebido com esse fogos de arteficios que sinalizará que o jogador acaba de terminar o percurso
+- Ao terminar o Labirinto você será recebido com esse fogos de arteficios que sinalizará que o jogador acaba de terminar o percurso<br>
 ![image](https://github.com/lucasnoelgb/promanopicas/assets/129121307/c6469211-447d-4aa9-a858-bbad4a942a29)
 ![image](https://github.com/lucasnoelgb/promanopicas/assets/129121307/f3dad9bc-fbcc-4bf1-9473-a827c1709a11)
 # Link do Drive
